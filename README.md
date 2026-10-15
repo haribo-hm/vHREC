@@ -56,7 +56,7 @@ CDTR X vHREC is a contract research organisation in Queensland, Australia, focus
 
 | 20+ years | $1M+ | Multi-credentialed |
 |---|---|---|
-| Private and Public Health sector Experience, Clinical trial oversight, from study start-up to close-out | Secured in funding for research infrastructure and units | Multi Discipliniary Qld Health Trained Research Ethics and Governance Officer, CRA, Nurse Researcher and BridgeTech Fellow, working across Australia |
+| Private and Public Healthsector Experience, Clinical trial oversight, from study start-up to close-out | Secured in funding for research infrastructure and units | Multi Discipliniary Qld Health Trained Research Ethics and Governance Officer, CRA, Nurse Researcher and BridgeTech Fellow, working across Australia |
 
 ## Services
 
