@@ -1,6 +1,6 @@
 # vHREC
 
-**Virtual Human Research Ethics Committee.** AI decision support for human research ethics review, research governance and study monitoring. People decide; vHREC drafts.
+**AI decision support for human research ethics review, research governance and study monitoring.** People decide; vHREC drafts.
 
 ![The vHREC workbench after a review of an invented study](docs/screens/overview.jpg)
 
@@ -57,9 +57,10 @@ CDTR X vHREC is a contract research organisation in Queensland, Australia, focus
 
 ## Contact
 
-<!-- Add the contact address before the page is made public. -->
-Contact details to follow.
+Hari K Muralidharan: [help@hari.com.au](mailto:help@hari.com.au)
 
 ---
 
 This repository is the project page only. The vHREC software is not published here. The screenshots show an invented study at an invented institution, the fictional Wattle Coast Hospital and Health Service. On the committee map, public figures stand in as review lenses for the committee's seats.
+
+© 2026. All rights reserved; see [LICENSE](LICENSE).
