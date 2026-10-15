@@ -51,11 +51,52 @@ One upload of a research submission package (protocol, participant information a
 
 ## The company
 
-CDTR X vHREC is a contract research organisation in Queensland, Australia, focused on digital therapeutics. It uses custom AI products to support ethics and governance review and clinical trial delivery. It offers three things:
+**Where clinical rigour meets digital health innovation.**
 
-- **CRO services:** trial management, ethics and governance submissions, and monitoring.
-- **Consulting.**
-- **AI-enabled software:** the vHREC workbench, available white-label.
+CDTR X vHREC is a contract research organisation in Queensland, Australia, focused on digital therapeutics. We help biotechnology startups, research institutions and principal investigators run compliant, audit-ready clinical trials, from first-in-human studies to AI-driven digital therapeutics. We use custom AI products, vHREC among them, to support ethics and governance review and clinical trial delivery.
+
+| 10+ years | $1M+ | Multi-credentialed |
+|---|---|---|
+| Clinical trial oversight, from study start-up to close-out | Secured in funding for research infrastructure and units | CRA, Nurse Researcher and BridgeTech Fellow, working across Australia |
+
+## Services
+
+### Clinical trial project management
+
+We offer full-scope project management, guiding trials from study start-up to close-out. Whether you are conducting early-phase investigator-initiated trials, theranostics studies or complex medical device registries, we manage the operational roadmap.
+
+- **Study execution:** management of regulatory submissions, site qualification, site initiation visits (SIVs), and vendor and CRO oversight.
+- **Operational excellence:** expert implementation of Quality-by-Design (QbD) principles, to ensure timelines are met without compromising scientific rigour.
+- **Collaborative leadership:** acting as the primary liaison between principal investigators, biotechnology sponsors and clinical sites across Australia.
+
+### Clinical trial consulting
+
+We help organisations build research infrastructure from the ground up. Drawing on experience securing $1M+ in funding and scaling research units, we provide bespoke consulting to transform your research capabilities.
+
+- **Infrastructure and scaling:** pitching business cases for research units, team recruitment, and establishing centralised operational models.
+- **Governance frameworks:** authoring institutional research conduct policies, standard operating procedures (SOPs) and essential document templates that meet NHMRC and National Clinical Trials Governance Framework standards.
+- **Mentorship and training:** certification and training of research staff in ICH-GCP principles and regulatory requirements, to foster a culture of quality.
+
+### Research monitoring and compliance
+
+Data integrity is the foundation of credible research. We provide expert, risk-based monitoring strategies that ensure audit readiness and alignment with ICH-GCP guidelines and ISO 14155:2026.
+
+- **Full-scope monitoring:** interim monitoring visits (IMVs), source data review (SDR) and comprehensive reporting.
+- **Risk mitigation:** authoring risk-based monitoring plans and quality management plans focused on critical-to-quality factors.
+- **Inspection readiness:** preparation for TGA GCP inspections and sponsor audits, so your site or organisation remains in a constant state of compliance.
+- **Safety oversight:** robust adverse event management systems and Data Safety Monitoring Boards (DSMBs) tailored to digital and investigational interventions.
+
+### Digital health safety and quality
+
+The rapidly evolving field of digital therapeutics and AI-driven clinical research requires specialised oversight. We provide the clinical governance frameworks needed to validate digital health interventions.
+
+- **AI and machine learning strategy:** implementing machine learning algorithms in clinical settings, including validation of diagnostic performance (for example, automated radiography interpretation).
+- **Digital governance:** navigating the regulatory pathways for Software as a Medical Device (SaMD) and ensuring compliant data collection.
+- **Safety, quality and incident management:** monitoring of clinical incidents and adverse events.
+
+### AI-enabled software
+
+The vHREC workbench described above, available under your institution's name.
 
 ## Team
 
