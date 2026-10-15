@@ -53,11 +53,7 @@ One upload of a research submission package (protocol, participant information a
 
 **Where clinical rigour meets digital health innovation.**
 
-CDTR X vHREC is a contract research organisation in Queensland, Australia, focused on digital therapeutics. We help biotechnology startups, research institutions and principal investigators run compliant, audit-ready clinical trials, from first-in-human studies to AI-driven digital therapeutics. We use custom AI products, vHREC among them, to support ethics and governance review and clinical trial delivery.
-
-| 10+ years | $1M+ | Multi-credentialed |
-|---|---|---|
-| Clinical trial oversight, from study start-up to close-out | Secured in funding for research infrastructure and units | CRA, Nurse Researcher and BridgeTech Fellow, working across Australia |
+CDTR X vHREC is a contract research organisation in Queensland, Australia, focused on digital therapeutics. We help biotechnology startups, research institutions and principal investigators run compliant, audit-ready clinical trials, from first-in-human studies to AI-driven digital therapeutics. We use custom AI products, vHREC and omniCAT among them, to support ethics and governance review and clinical trial delivery.
 
 ## Services
 
@@ -71,7 +67,7 @@ We offer full-scope project management, guiding trials from study start-up to cl
 
 ### Clinical trial consulting
 
-We help organisations build research infrastructure from the ground up. Drawing on experience securing $1M+ in funding and scaling research units, we provide bespoke consulting to transform your research capabilities.
+We help organisations build research infrastructure from the ground up. Drawing on Maame Amma Owusu's experience securing $1M+ in funding and scaling research units, we provide bespoke consulting to transform your research capabilities.
 
 - **Infrastructure and scaling:** pitching business cases for research units, team recruitment, and establishing centralised operational models.
 - **Governance frameworks:** authoring institutional research conduct policies, standard operating procedures (SOPs) and essential document templates that meet NHMRC and National Clinical Trials Governance Framework standards.
@@ -96,12 +92,39 @@ The rapidly evolving field of digital therapeutics and AI-driven clinical resear
 
 ### AI-enabled software
 
-The vHREC workbench described above, available under your institution's name.
+The vHREC workbench described above, available under your institution's name, and omniCAT, our clinical data capture tool, described below.
+
+## omniCAT, our clinical data capture tool
+
+omniCAT captures a person's health results and scores every result against an optimal target, in one profile out of 10,000 points across seven modules: biochemistry, hormones, physical fitness, wellness, aesthetics, risk prevention and brain health.
+
+- **Capture from a report.** Results can be pasted straight from a pathology report. omniCAT matches the marker names it knows, shows every match before anything is written, never converts a unit, and leaves anything uncertain unticked for a person to decide.
+- **Scored against optimal.** Each marker shows its optimal target, the near-optimal band, the wider laboratory range and the sources behind them. A health professional can award up to 1,000 further points.
+- **History and reports.** Snapshots show each marker's trend over time, and the report sets out the whole profile, ready to print or save as PDF.
+- **Ask Inkling.** Any result can be taken to Inkling as a pre-filled question. Nothing is sent until the person presses Send, and it runs on their own OpenRouter key.
+- **The data stays with the person.** Results are stored in the browser only, export to a file and import back, and can be erased in one step.
+
+omniCAT is a prototype: its reference values are prototype product data, not validated clinical decision limits, and it is not for diagnosis.
+
+| A synthetic example profile | Results pasted from a pathology report |
+|---|---|
+| ![omniCAT scoring a synthetic profile](docs/screens/omnicat-overview.jpg) | ![omniCAT matching pasted results before import](docs/screens/omnicat-import.jpg) |
+
+- [Watch the 2½-minute omniCAT demo](https://github.com/haribo-hm/vHREC/releases/download/omnicat-demo-2026-10-15/omniCAT_demo_short_1080p.mp4) (MP4, 1080p, 9 MB)
+- [The full 5-minute tour](https://github.com/haribo-hm/vHREC/releases/download/omnicat-demo-2026-10-15/omniCAT_demo_full_1080p.mp4) (MP4, 1080p, 14 MB)
+
+The demo uses a synthetic profile and a synthetic pathology report; no real person's results appear.
 
 ## Team
 
-- **Hari K Muralidharan**, co-founder: research ethics and governance.
+- **Hari K Muralidharan**, co-founder: research ethics and governance; creator of vHREC and omniCAT.
 - **Maame Amma Owusu**, co-founder: clinical trials auditing and monitoring.
+
+Maame's track record:
+
+| 10+ years | $1M+ | Multi-credentialed |
+|---|---|---|
+| Clinical trial oversight, from study start-up to close-out | Secured in funding for research infrastructure and units | CRA, Nurse Researcher and BridgeTech Fellow, working across Australia |
 
 ## Contact
 
@@ -109,6 +132,6 @@ Hari K Muralidharan: [help@hari.com.au](mailto:help@hari.com.au)
 
 ---
 
-This repository is the project page only. The vHREC software is not published here. The screenshots show an invented study at an invented institution, the fictional Wattle Coast Hospital and Health Service. On the committee map, public figures stand in as review lenses for the committee's seats.
+This repository is the project page only. The vHREC software is not published here. The screenshots show an invented study at an invented institution, the fictional Wattle Coast Hospital and Health Service. The omniCAT screenshots show a synthetic profile. On the committee map, public figures stand in as review lenses for the committee's seats.
 
 © 2026. All rights reserved; see [LICENSE](LICENSE).
