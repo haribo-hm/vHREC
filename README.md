@@ -54,9 +54,9 @@ One upload of a research submission package (protocol, participant information a
 
 CDTR X vHREC is a contract research organisation in Queensland, Australia, focused on digital therapeutics. We help biotechnology startups, research institutions and principal investigators run compliant, audit-ready clinical trials, from first-in-human studies to AI-driven digital therapeutics. We use custom AI products, vHREC and omniCAT among them, to support ethics and governance review and clinical trial delivery.
 
-| 10+ years | $1M+ | Multi-credentialed |
+| 20+ years | $1M+ | Multi-credentialed |
 |---|---|---|
-| Clinical trial oversight, from study start-up to close-out | Secured in funding for research infrastructure and units | Multi Discipliniary Qld Health Trained Research Ethics and Governance Officer, CRA, Nurse Researcher and BridgeTech Fellow, working across Australia |
+| Private and Public Health sector Experience, Clinical trial oversight, from study start-up to close-out | Secured in funding for research infrastructure and units | Multi Discipliniary Qld Health Trained Research Ethics and Governance Officer, CRA, Nurse Researcher and BridgeTech Fellow, working across Australia |
 
 ## Services
 
