@@ -131,6 +131,6 @@ Hari K Muralidharan: [help@hari.com.au](mailto:help@hari.com.au)
 
 ---
 
-This repository is the project page only. The vHREC software is not published here. The screenshots show an invented study at an invented institution, the fictional Wattle Coast Hospital and Health Service. The omniCAT screenshots show a synthetic profile. On the committee map, public figures stand in as review lenses for the committee's seats.
+This repository is the project page only. The vHREC software is not published here. The screenshots show an invented study at an invented institution. The omniCAT screenshots show a synthetic profile. On the committee map, public figures stand in as review lenses for the committee's seats.
 
 © 2026. All rights reserved; see [LICENSE](LICENSE).
