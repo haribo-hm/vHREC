@@ -8,7 +8,14 @@
 
 ## Demo
 
-A five-minute walkthrough on an invented study will be posted here shortly.
+One review of an invented study, from upload to the committee's draft decision, the governance paperwork, a draft monitoring plan and the learning paths. It runs on a hosted model, and the committee's members are public figures used as review lenses.
+
+- [Watch the 2½-minute demo](https://github.com/haribo-hm/vHREC/releases/download/demo-2026-10-15/vHREC_demo_short_1080p.mp4) (MP4, 1080p, 47 MB)
+- [The full 5½-minute tour](https://github.com/haribo-hm/vHREC/releases/download/demo-2026-10-15/vHREC_demo_full_1080p.mp4) (MP4, 1080p, 61 MB)
+- [The 2½-minute demo for phones](https://github.com/haribo-hm/vHREC/releases/download/demo-2026-10-15/vHREC_demo_short_720p.mp4) (MP4, 720p, 11 MB)
+- [The draft monitoring plan in 25 seconds](https://github.com/haribo-hm/vHREC/releases/download/demo-2026-10-15/vHREC_monitoring_clip_1080p.mp4) (MP4, 8 MB)
+
+All four are on the [release page](https://github.com/haribo-hm/vHREC/releases/tag/demo-2026-10-15).
 
 ## What it does
 
