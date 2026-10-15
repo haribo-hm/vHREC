@@ -55,6 +55,10 @@ One upload of a research submission package (protocol, participant information a
 
 CDTR X vHREC is a contract research organisation in Queensland, Australia, focused on digital therapeutics. We help biotechnology startups, research institutions and principal investigators run compliant, audit-ready clinical trials, from first-in-human studies to AI-driven digital therapeutics. We use custom AI products, vHREC and omniCAT among them, to support ethics and governance review and clinical trial delivery.
 
+| 10+ years | $1M+ | Multi-credentialed |
+|---|---|---|
+| Clinical trial oversight, from study start-up to close-out | Secured in funding for research infrastructure and units | CRA, Nurse Researcher and BridgeTech Fellow, working across Australia |
+
 ## Services
 
 ### Clinical trial project management
@@ -67,7 +71,7 @@ We offer full-scope project management, guiding trials from study start-up to cl
 
 ### Clinical trial consulting
 
-We help organisations build research infrastructure from the ground up. Drawing on Maame Amma Owusu's experience securing $1M+ in funding and scaling research units, we provide bespoke consulting to transform your research capabilities.
+We help organisations build research infrastructure from the ground up. Drawing on experience securing $1M+ in funding and scaling research units, we provide bespoke consulting to transform your research capabilities.
 
 - **Infrastructure and scaling:** pitching business cases for research units, team recruitment, and establishing centralised operational models.
 - **Governance frameworks:** authoring institutional research conduct policies, standard operating procedures (SOPs) and essential document templates that meet NHMRC and National Clinical Trials Governance Framework standards.
@@ -117,14 +121,10 @@ The demo uses a synthetic profile and a synthetic pathology report; no real pers
 
 ## Team
 
-- **Hari K Muralidharan**, co-founder: research ethics and governance; creator of vHREC and omniCAT.
-- **Maame Amma Owusu**, co-founder: clinical trials auditing and monitoring.
+- **Hari K Muralidharan**, co-founder.
+- **Maame Amma Owusu**, co-founder.
 
-Maame's track record:
-
-| 10+ years | $1M+ | Multi-credentialed |
-|---|---|---|
-| Clinical trial oversight, from study start-up to close-out | Secured in funding for research infrastructure and units | CRA, Nurse Researcher and BridgeTech Fellow, working across Australia |
+Together the team brings research ethics and governance, clinical trial management, auditing and monitoring, and the vHREC and omniCAT software, built in-house.
 
 ## Contact
 
