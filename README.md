@@ -41,7 +41,6 @@ One upload of a research submission package (protocol, participant information a
 - **Rules first.** A deterministic engine raises findings with their evidence. Models add judgement where rules cannot, and a model's quote is checked against the source text before it is shown.
 - **Hosted or on-premises.** It runs on a hosted model (the demo uses Thinking Machines' Inkling through OpenRouter) or on open-weight models on the institution's own hardware. A real-submission lock refuses hosted model endpoints.
 - **Drafts, not decisions.** Every output is a draft for the human committee or office. vHREC makes no ethics or governance decision.
-- **Tested.** About 3,000 automated tests.
 
 ## Who it is for
 
